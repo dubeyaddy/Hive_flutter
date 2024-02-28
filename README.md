@@ -1,6 +1,17 @@
 # local_db_app
 
-A new Flutter project.
+A new Flutter project. This project implements basic building blocks(Widgets) for Flutter such as MyApp, Scaffold, Container, Row, Column, Text, etc.
+This App presents the implementation of Hive Local Db in the application to store and retrieve data in few easy steps.
+
+#App build details
+When developing, 
+flutter -v : 3.19
+Gradle -v : 8.0.0
+minSDK - 28
+targetSDK - 34
+
+#Command to run app
+=> flutter run
 
 ## Getting Started
 
